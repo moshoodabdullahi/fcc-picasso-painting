@@ -9,14 +9,15 @@ Additional description about the project and its features.
 ## Built With
 
 - HTML5 elements
-  - `div`.
-- CSS elements
-  - `body`,
-  - `.triangles`, `.fas`.
+  - `i`, `div`.
+- CSS properties
+  - CSS Variables for reusable CSS values,
+  - CSS Positioning `fixed`,
+  - CSS Background for page aesthetic using `background-color`.
 - Linters
   - [Prettier](https://prettier.io/),
   - [Stylelint](https://stylelint.io/).
-- Github Action
+- GitHub Action
 
 ## Live Demo
 
