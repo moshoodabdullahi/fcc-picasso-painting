@@ -24,7 +24,7 @@
 - Clone the project
 
 ```bash
-git clone https://github.com/moshoodabdullahi/html-css-template.git
+git clone https://github.com/moshoodabdullahi/fcc-picasso-painting.git
 ```
 
 - Install Dependencies
