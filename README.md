@@ -7,8 +7,7 @@
 ## Built With
 
 - HTML5 elements SVG icons such as `font-awesome`.
-- CSS properties 
-  - CSS Variables for reusable CSS values,
+- CSS properties
   - CSS Positioning `absolute`,
   - CSS Background for page aesthetic using `background-color`.
 - Linters
