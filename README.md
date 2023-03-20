@@ -1,18 +1,15 @@
 # FCC PICASSO-PAINTING
 
-> A basic HTML and CSS project to illustrate styling.
+> A basic HTML and CSS project to demostrate intermediate CSS techniques.
 
 ![screenshot](fcc-picasso-painting.netlify.app_.png)
 
-Additional description about the project and its features.
-
 ## Built With
 
-- HTML5 elements
-  - `i`, `div`.
-- CSS properties
+- HTML5 elements SVG icons such as `font-awesome`.
+- CSS properties 
   - CSS Variables for reusable CSS values,
-  - CSS Positioning `fixed`,
+  - CSS Positioning `absolute`,
   - CSS Background for page aesthetic using `background-color`.
 - Linters
   - [Prettier](https://prettier.io/),
