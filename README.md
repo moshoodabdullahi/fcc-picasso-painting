@@ -1,14 +1,17 @@
-# FCC PICASSO-PAINTING
+# FCC PICASSO PAINTING
 
-> A basic HTML and CSS project to demostrate intermediate CSS techniques.
+> A picasso painting project using SVG icons, CSS positioning to build picasso painting webpage.
 
 ![screenshot](fcc-picasso-painting.netlify.app_.png)
+
+# This PR adds a picasso painting using SVG icons, CSS positioning, font-awesome to build picasso painting webpage.
 
 ## Built With
 
 - HTML5 elements SVG icons such as `font-awesome`.
 - CSS properties
   - CSS Positioning `absolute`,
+  - CSS Variables for reusable CSS values,
   - CSS Background for page aesthetic using `background-color`.
 - Linters
   - [Prettier](https://prettier.io/),
@@ -67,7 +70,6 @@ yarn hint
 
 - [CSS Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
 - [HTML Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
-- [JavaScript Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
 - [Git Style Guide](https://udacity.github.io/git-styleguide/)
 
 ## 👤 Author
