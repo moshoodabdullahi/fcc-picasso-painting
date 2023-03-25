@@ -4,7 +4,7 @@
 
 ![screenshot](fcc-picasso-painting.netlify.app_.png)
 
-# This PR adds a picasso painting using SVG icons, CSS positioning, font-awesome to build picasso painting webpage.
+# This PR adds a picasso painting webpage using SVG icons, CSS positioning, font-awesome.
 
 ## Built With
 
